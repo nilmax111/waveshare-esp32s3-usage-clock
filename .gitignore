@@ -1,0 +1,14 @@
+.venv/
+.pio/
+.platformio/
+.runtime/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+!.env.example
+*.local.json
+backups/
+firmware/
+.DS_Store
